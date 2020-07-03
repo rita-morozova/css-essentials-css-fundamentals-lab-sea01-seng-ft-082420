@@ -33,9 +33,9 @@ section p{
 
 #details div{
    display: inline-block;
- margin: auto;
-  width: 50%;
 
+  width: 50%;
+  padding: 10px;
   background: red;
   text-align: center;
   
