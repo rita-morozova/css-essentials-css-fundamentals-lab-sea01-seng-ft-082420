@@ -40,4 +40,8 @@ section#details{
   color: white;
   text-align: center;
 }
+#details div {
+  width:300px;
+  float: left;
+}
 
