@@ -31,15 +31,7 @@ section p{
   margin-right: auto;
 }
 
-section#details{
-  
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color: red;
-  color: white;
-  text-align: center;
-}
+
 #details div {
   width:300px;
   float: left;
