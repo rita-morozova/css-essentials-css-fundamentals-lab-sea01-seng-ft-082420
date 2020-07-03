@@ -36,5 +36,6 @@ section p{
   width:300px;
   float: left;
   text-align: center;
+  display: block;
 }
 
