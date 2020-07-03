@@ -30,7 +30,7 @@ section p{
   margin-right: auto;
 }
 
-section#details{
+#details div{
  margin: auto;
   width: 50%;
   padding: 10px;
