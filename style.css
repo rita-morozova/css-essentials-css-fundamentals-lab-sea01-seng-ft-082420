@@ -30,8 +30,8 @@ section p{
 }
 
 #details{
-
-
-
+left: 0;
+  bottom: 0;
+  width: 100%;
 }
 
