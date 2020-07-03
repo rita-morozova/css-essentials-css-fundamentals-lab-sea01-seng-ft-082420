@@ -37,5 +37,6 @@ section p{
   float: left;
   text-align: center;
   display: block;
+  background: red;
 }
 
