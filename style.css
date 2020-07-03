@@ -17,4 +17,7 @@ nav a {
   padding-right: 10px;
   background: grey;
 }
-img[title="Welcome to Exceptional Realty Group"]
+figcaption{
+  font-size: 50%;
+  text-align: center;
+}
